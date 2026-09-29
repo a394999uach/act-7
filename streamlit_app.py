@@ -1,5 +1,5 @@
 st.sidebar.title("En esta aplicacion")
-st.sidebar.write("Se evalua un lote")
+
 
 import streamlit as st
 
